@@ -5,3 +5,4 @@ git commit -m "mensagem" -> faz commit do que estava para ser commitado
 git add nome_arquivo_1 
 depois
 git add nome_arquivo_2 -> serve para unir dois arquivos em um único commit
+git log -> mostra todo o histórico de commit
