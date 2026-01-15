@@ -11,11 +11,17 @@ git add . -> adiciona a pasta atual ao commit
 git add * -> adiciona todos os arquivos da pasta atual (funciona igual ao git add . , mas é como se selecionasse arquivos manualmente dentro da pasta em vez de selecionar a pasta)
 aparece (HEAD -> main) ao lado do commit onde eu parei, o mais recente.
 git add *txt 
-git diff nome_arquivo -> mostra diferença entre uma versão do arquivo e outra, o que mudou
+git diff  -- nome_arquivo -> mostra diferença entre uma versão do arquivo e outra, o que mudou
+
+	IMPORTANTE: Profissionais sempre usam --, mas é possível usar apenas git diff. Só, não é recomendado porque se tiver referências com nomes iguais, pode dar ambiguidade e o git dá erro para evitar.
 git diff . -> mostra as diferenças entre commits da pasta atual 
+
+
 git reset nome_arquivo -> remove um arquivo do commit, caso tenha sido adicionado (remove ele do estado de Stage, voltando para Unstaged) 
 git checkout -b nome_arquivo -> cria uma branch secundária (como uma cópia). Como se tivesse pegado o projeto e copiado para outra pasta. Agora trabalhamos na outra pasta.
 git branch -> mostra em qual branch está: a atual aparece destacada em verde. 
+
+
 ### fluxo de trabalho ####
 1. criar o diretório mkdir nome_pasta
 2. iniciar o git com git init .
@@ -26,6 +32,5 @@ git branch -> mostra em qual branch está: a atual aparece destacada em verde.
 7. volta para o passo 3
 8. git log para mostrar o histórico, se quiser
 
-Pode dar git status quando quiser. 
-Teste.
-Testando o diff 
+
+
