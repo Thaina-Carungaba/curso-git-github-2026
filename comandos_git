@@ -12,7 +12,7 @@ git add * -> adiciona todos os arquivos da pasta atual (funciona igual ao git ad
 aparece (HEAD -> main) ao lado do commit onde eu parei, o mais recente.
 git add *txt 
 git diff nome_arquivo -> mostra diferença entre uma versão do arquivo e outra, o que mudou
-git diff . -> mostra as diferenças entre versões de todos os arquivos da pasta atual 
+git diff . -> mostra as diferenças entre commits da pasta atual 
 git reset nome_arquivo -> remove um arquivo do commit, caso tenha sido adicionado (remove ele do estado de Stage, voltando para Unstaged) 
 git checkout -b nome_arquivo -> cria uma branch secundária (como uma cópia). Como se tivesse pegado o projeto e copiado para outra pasta. Agora trabalhamos na outra pasta.
 git branch -> mostra em qual branch está: a atual aparece destacada em verde. 
@@ -28,3 +28,4 @@ git branch -> mostra em qual branch está: a atual aparece destacada em verde.
 
 Pode dar git status quando quiser. 
 Teste.
+Testando o diff 
