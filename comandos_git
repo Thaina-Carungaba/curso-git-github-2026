@@ -57,3 +57,16 @@ MAIS UMAS LINHAS AQUI UHUHU
 
 
 Linha cinquenta e oito bolada
+
+
+#### RESOLVENDO CONFLITOS ###
+
+Se duas pessoas alterarem A MESMA LINHA do MESMO ARQUIVO, dá conflito. 
+
+Para resolver, tem que abrir o arquivo NA MESMA BRANCH onde deu conflito. 
+Irá aparecer o que está causando conflito.
+Basta editar o arquivo, deixando a parte desejada, e salvar. 
+Depois, comittar. 
+Feito isso, fazer o merge de novo. Irá resolver. 
+
+Pulei mais 3 linhas vamoqvamo
