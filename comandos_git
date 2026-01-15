@@ -40,6 +40,7 @@ git merge <nome da branch>
 IMPORTANTE: O merge não traz os arquivos de uma branch para a outra. 
 Ele traz as ALTERAÇÕES. Como se fosse uma cópia. 
 
+hihihihi
 
 
 1. Fiz o merge entre as branches
@@ -53,3 +54,6 @@ Resultado: Em cada branch, o arquivo aparece de uma forma.
 
 
 MAIS UMAS LINHAS AQUI UHUHU
+
+
+Linha cinquenta e oito bolada
