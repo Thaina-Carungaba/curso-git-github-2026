@@ -57,3 +57,7 @@ Resultado: Em cada branch, o arquivo aparece de uma forma.
 MAIS UMAS LINHAS AQUI UHUHU Desnecessauro
 
 Linha cinquenta e oito bolada
+
+#### NO GIT HUB ####
+
+git push origin -> manda o commit (as alterações) para o repositório remoto
