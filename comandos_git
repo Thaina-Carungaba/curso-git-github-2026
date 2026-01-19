@@ -75,3 +75,16 @@ Pulei mais 3 linhas vamoqvamo
 git push origin -> manda o commit (as alterações) para o repositório remoto
 
 git clone (URL do fork) -> escolhe o fork em que irá trabalhar
+
+#### Fluxo de trabalho ####
+
+####FLUXO DE TRABALHO USANDO PULL REQUEST####
+
+1. Criar ou entrar na branch feature
+2. Criar ou editar arquivo 
+3. Fazer o commit  
+4. Fazer o git push origin (enviar as alterações pro github) 
+5. Fazer pull request no github
+6. Revisar alterações no github 
+7. Fazer o merge pelo github (isso manda as alterações para a main branch do github e permite deletar a branch no github) 
+8. Deletar a branch no gitbash (se necessário)
