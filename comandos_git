@@ -88,3 +88,8 @@ git clone (URL do fork) -> escolhe o fork em que irá trabalhar
 6. Revisar alterações no github 
 7. Fazer o merge pelo github (isso manda as alterações para a main branch do github e permite deletar a branch no github) 
 8. Deletar a branch no gitbash (se necessário)
+
+
+### Aprendendo a usar o visual code ###
+
+Permite tudo junto.
